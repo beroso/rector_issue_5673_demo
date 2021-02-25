@@ -1,0 +1,13 @@
+{
+    "name": "beroso/rector_issue_5673_demo",
+    "type": "project",
+    "require-dev": {
+        "rector/rector": "0.9.31"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
